@@ -10,6 +10,9 @@ Dimensions are 4cm x 3cm
 
 ![](docs/img/front2.PNG)
 
+![](docs/img/back.PNG)
+
+
 ## Software
 For the beginning the board will run [tx5823-pro](https://github.com/sheaivey/tx5823-pro).
 For future it is planned to add support for the onboard WS2812B RGB led
