@@ -6,7 +6,7 @@ The module contains the popular TX5823 video transmitter, modded so that channel
 
 Above all there is a IR transistor and a button on the module which makes easy binding with your receiver possible. You select the channel at your receiver in manual mode an bring it next to your transmitter. By pushing the button the transmitter changes to the channel of the receiver. The [rx5808-pro-diversity](https://github.com/sheaivey/rx5808-pro-diversity/) or other compatible receivers have the necessary IR diode to use this feature.
 
-Dimensions are 4cm x 3cm
+Dimensions of the PCB are 4cm x 3cm
 
 ![](docs/img/front2.PNG)
 
@@ -16,3 +16,10 @@ Dimensions are 4cm x 3cm
 ## Software
 For the beginning the board will run [tx5823-pro](https://github.com/sheaivey/tx5823-pro).
 For future it is planned to add support for the onboard WS2812B RGB led
+
+
+## Other similar hardware/projects
+[TX5823 by ep092](https://github.com/ep092/TX5823)
+[RX5808 by Virtex7](https://github.com/Virtex7/RX5808)
+[tx5823-pro by sheaivey](https://github.com/sheaivey/tx5823-pro)
+[rx5808-pro-diversity by sheaivey](https://github.com/sheaivey/rx5808-pro-diversity/)
