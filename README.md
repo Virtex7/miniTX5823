@@ -19,7 +19,7 @@ For future it is planned to add support for the onboard WS2812B RGB led
 
 
 ## Other similar hardware/projects
-[TX5823 by ep092](https://github.com/ep092/TX5823)
-[RX5808 by Virtex7](https://github.com/Virtex7/RX5808)
-[tx5823-pro by sheaivey](https://github.com/sheaivey/tx5823-pro)
-[rx5808-pro-diversity by sheaivey](https://github.com/sheaivey/rx5808-pro-diversity/)
+* [TX5823 by ep092](https://github.com/ep092/TX5823)
+* [RX5808 by Virtex7](https://github.com/Virtex7/RX5808)
+* [tx5823-pro by sheaivey](https://github.com/sheaivey/tx5823-pro)
+* [rx5808-pro-diversity by sheaivey](https://github.com/sheaivey/rx5808-pro-diversity/)
